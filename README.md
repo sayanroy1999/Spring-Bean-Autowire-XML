@@ -1,0 +1,1 @@
+Autowiring using XML configuration
